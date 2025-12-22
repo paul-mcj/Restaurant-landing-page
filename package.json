@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-landing-page",
+  "version": "1.0.0",
+  "description": "This project is the landing page for a fake restaurant called _Mehr_ . It is responsively designed for mobile, tablet and desktop environments. It is able to perform basic functions of dynamic webpages through DOM manipulation and allows for user interactivity with a nav bar, modals and forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0"
+  }
+}
